@@ -1,0 +1,6 @@
+{
+  "name": "HomeFin - การเงินครอบครัว & แจ้งเตือนหนี้",
+  "description": "ระบบจัดการและวิเคราะห์การเงินครอบครัว วางแผนหนี้สิน ค่าใช้จ่าย คาดการณ์เงินคงเหลือ พร้อมระบบแจ้งเตือนวันครบกำหนดใน Google Calendar",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
